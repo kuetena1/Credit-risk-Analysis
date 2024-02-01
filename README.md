@@ -4,3 +4,5 @@ Welcome to the Credit Risk Analysis Dashboard repository! This project aims to a
 **Interactive Dashboard:** Explore credit risk metrics and insights through a user-friendly and interactive dashboard.
 
 **Data Visualization:** Visualize key credit indicators, trends, and risk factors for effective decision-making. 
+
+link to the dashbord [here](https://public.tableau.com/app/profile/nadege.kuete/viz/CreditRiskInsights/Dashboard1)
